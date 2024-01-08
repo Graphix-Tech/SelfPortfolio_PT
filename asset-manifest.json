@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SelfPortfolio_PT/static/css/main.c3416ab0.css",
+    "main.js": "/SelfPortfolio_PT/static/js/main.d0bccab3.js",
+    "static/js/787.2af39c6f.chunk.js": "/SelfPortfolio_PT/static/js/787.2af39c6f.chunk.js",
+    "static/media/portfolio2.jpg": "/SelfPortfolio_PT/static/media/portfolio2.56fa64f978f47aaa6748.jpg",
+    "static/media/portfolio3.jpg": "/SelfPortfolio_PT/static/media/portfolio3.0c3761693c8b9e10c5b8.jpg",
+    "static/media/nauakri.png": "/SelfPortfolio_PT/static/media/nauakri.5ab2a798432bd0569415.png",
+    "static/media/linkdin.png": "/SelfPortfolio_PT/static/media/linkdin.6ac77341c7a1f1743ba6.png",
+    "static/media/portfolio1.jpg": "/SelfPortfolio_PT/static/media/portfolio1.4e8c58ab4fe9ff6ee44d.jpg",
+    "static/media/portfolio4.jpg": "/SelfPortfolio_PT/static/media/portfolio4.c181effa7cbbd20abd6c.jpg",
+    "static/media/ReactDesign.png": "/SelfPortfolio_PT/static/media/ReactDesign.82b2d204ef389056c395.png",
+    "static/media/travel.png": "/SelfPortfolio_PT/static/media/travel.183de9c9d7ea063bd070.png",
+    "static/media/TechDesign.png": "/SelfPortfolio_PT/static/media/TechDesign.b8bcdff4540c8846710a.png",
+    "static/media/selfImg.jpg": "/SelfPortfolio_PT/static/media/selfImg.10dffcc605de1371c2cd.jpg",
+    "static/media/webDesign.png": "/SelfPortfolio_PT/static/media/webDesign.f1d3abd9c24916c55ae4.png",
+    "static/media/healthcare.png": "/SelfPortfolio_PT/static/media/healthcare.f0df2fb4bf36ec24678d.png",
+    "static/media/menubar1.png": "/SelfPortfolio_PT/static/media/menubar1.9b1a19e72299a5518cc4.png",
+    "index.html": "/SelfPortfolio_PT/index.html",
+    "main.c3416ab0.css.map": "/SelfPortfolio_PT/static/css/main.c3416ab0.css.map",
+    "main.d0bccab3.js.map": "/SelfPortfolio_PT/static/js/main.d0bccab3.js.map",
+    "787.2af39c6f.chunk.js.map": "/SelfPortfolio_PT/static/js/787.2af39c6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3416ab0.css",
+    "static/js/main.d0bccab3.js"
+  ]
+}
